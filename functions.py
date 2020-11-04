@@ -45,3 +45,7 @@ def remainder(num1, num2):
 print(remainder(7, 4))
 
 # We use the return statement which is the key to python functions which means return the result of any function
+
+# can store the variables before printing them using return
+multiplied_value = multiply(9, 5)
+print(multiplied_value)
